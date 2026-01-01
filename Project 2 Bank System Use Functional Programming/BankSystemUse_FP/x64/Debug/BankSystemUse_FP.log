@@ -1,0 +1,6 @@
+﻿  BankSystemUse_FP.cpp
+C:\Users\salman\source\repos\BankSystemUse_FP\BankSystemUse_FP.cpp(35,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\salman\source\repos\BankSystemUse_FP\BankSystemUse_FP.cpp(453): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\salman\source\repos\BankSystemUse_FP\BankSystemUse_FP.cpp(493): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\salman\source\repos\BankSystemUse_FP\BankSystemUse_FP.cpp(524): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  BankSystemUse_FP.vcxproj -> C:\Users\salman\source\repos\BankSystemUse_FP\x64\Debug\BankSystemUse_FP.exe
